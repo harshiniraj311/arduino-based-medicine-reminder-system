@@ -37,7 +37,7 @@ This Arduino project is a medicine reminder system that uses an LCD and a buzzer
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/harshiniraj311/arduino-based-medicine-reminder-system.git!
+   git clone https://github.com/harshiniraj311/arduino-based-medicine-reminder-system.git
    ```
 2. **Connect the components as per the circuit diagram.**
 3. **Upload the provided code to the Arduino Uno.**
