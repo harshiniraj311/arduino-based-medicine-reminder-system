@@ -37,7 +37,7 @@ This Arduino project is a medicine reminder system that uses an LCD and a buzzer
 ## Installation
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/medicine-reminder-arduino.git
+   git clone https://github.com/harshiniraj311/arduino-based-medicine-reminder-system.git!
    ```
 2. **Connect the components as per the circuit diagram.**
 3. **Upload the provided code to the Arduino Uno.**
@@ -51,4 +51,12 @@ The code is available in the `main.ino` file in this repository.
 
 ## License
 This project is licensed under the MIT License.
+
+## Demo
+<img src="https://github.com/harshiniraj311/arduino-based-medicine-reminder-system/assets/155360804/1773f13d-1875-4859-b47c-1efac2e93237" alt="medicine reminder" width="400">
+<img src="https://github.com/harshiniraj311/arduino-based-medicine-reminder-system/assets/155360804/b4dc13f4-b6dc-40c4-87a4-b81ceb95b114" alt="medicine reminder" width="400">
+<img src="https://github.com/harshiniraj311/arduino-based-medicine-reminder-system/assets/155360804/5ce7dfbc-06ca-478c-9be0-afb0cff25bb8" alt="medicine reminder" width="400">
+<img src="https://github.com/harshiniraj311/arduino-based-medicine-reminder-system/assets/155360804/3f9776f0-2dc5-4778-8ddb-6f510ffce98f" alt="medicine reminder" width="400">
+<img src="https://github.com/harshiniraj311/arduino-based-medicine-reminder-system/assets/155360804/94c210dd-d9a3-44ba-b403-27f0e4179e74" alt="medicine reminder" width="400">
+
 
