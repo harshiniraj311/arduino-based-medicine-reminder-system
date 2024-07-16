@@ -4,7 +4,7 @@
 This Arduino project is a medicine reminder system that uses an LCD and a buzzer to alert users to take their medication at set times daily.
 
 ## Features
-- **Three Daily Reminders:** Alerts at 8 AM, 2 PM, and 8 PM.
+- **Three Daily Reminders:** Default alerts at 8 AM, 2 PM, and 8 PM. Can be changed according to the user's requirements.
 - **LCD Display:** Shows the current time, date, and reminder messages.
 - **Buzzer Alert:** Notifies users when it's time to take their medication.
 - **Button Interface:** Set the reminder frequency (once, twice, or thrice a day) using push buttons.
